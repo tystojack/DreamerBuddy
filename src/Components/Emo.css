@@ -1,0 +1,17 @@
+.button {
+  background-color: #ad6989;
+  border-radius: 25px;
+  margin: 0.6rem;
+  height: 49px;
+  /* width: 30vw; */
+}
+.emopawn {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: "#ffa299";
+  justify-content: space-around;
+}
+.navigation {
+  background-color: #ffa299;
+}
