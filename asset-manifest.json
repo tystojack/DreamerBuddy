@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/DreamBuddy/static/css/main.95862de5.chunk.css",
-    "main.js": "/DreamBuddy/static/js/main.258b8b39.chunk.js",
-    "main.js.map": "/DreamBuddy/static/js/main.258b8b39.chunk.js.map",
-    "runtime-main.js": "/DreamBuddy/static/js/runtime-main.fb053bab.js",
-    "runtime-main.js.map": "/DreamBuddy/static/js/runtime-main.fb053bab.js.map",
-    "static/js/2.d3a3b7c2.chunk.js": "/DreamBuddy/static/js/2.d3a3b7c2.chunk.js",
-    "static/js/2.d3a3b7c2.chunk.js.map": "/DreamBuddy/static/js/2.d3a3b7c2.chunk.js.map",
-    "index.html": "/DreamBuddy/index.html",
-    "precache-manifest.f3af4959b9b05ee4c9071abd869dc2d7.js": "/DreamBuddy/precache-manifest.f3af4959b9b05ee4c9071abd869dc2d7.js",
-    "service-worker.js": "/DreamBuddy/service-worker.js",
-    "static/css/main.95862de5.chunk.css.map": "/DreamBuddy/static/css/main.95862de5.chunk.css.map",
-    "static/js/2.d3a3b7c2.chunk.js.LICENSE.txt": "/DreamBuddy/static/js/2.d3a3b7c2.chunk.js.LICENSE.txt",
-    "static/media/Signup.css": "/DreamBuddy/static/media/cloud.334ad1c6.png"
+    "main.css": "/DreamerBuddy/static/css/main.2d0b685c.chunk.css",
+    "main.js": "/DreamerBuddy/static/js/main.9da05d93.chunk.js",
+    "main.js.map": "/DreamerBuddy/static/js/main.9da05d93.chunk.js.map",
+    "runtime-main.js": "/DreamerBuddy/static/js/runtime-main.18686f9a.js",
+    "runtime-main.js.map": "/DreamerBuddy/static/js/runtime-main.18686f9a.js.map",
+    "static/js/2.02d88357.chunk.js": "/DreamerBuddy/static/js/2.02d88357.chunk.js",
+    "static/js/2.02d88357.chunk.js.map": "/DreamerBuddy/static/js/2.02d88357.chunk.js.map",
+    "index.html": "/DreamerBuddy/index.html",
+    "precache-manifest.ddfeb3d1a039b6ae37db3052f72d5d11.js": "/DreamerBuddy/precache-manifest.ddfeb3d1a039b6ae37db3052f72d5d11.js",
+    "service-worker.js": "/DreamerBuddy/service-worker.js",
+    "static/css/main.2d0b685c.chunk.css.map": "/DreamerBuddy/static/css/main.2d0b685c.chunk.css.map",
+    "static/js/2.02d88357.chunk.js.LICENSE.txt": "/DreamerBuddy/static/js/2.02d88357.chunk.js.LICENSE.txt",
+    "static/media/Description.png": "/DreamerBuddy/static/media/Description.8633bee1.png",
+    "static/media/Signup.css": "/DreamerBuddy/static/media/cloud.334ad1c6.png",
+    "static/media/yourdata2.png": "/DreamerBuddy/static/media/yourdata2.9d27206d.png",
+    "static/media/youremotions.png": "/DreamerBuddy/static/media/youremotions.64b2f619.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fb053bab.js",
-    "static/js/2.d3a3b7c2.chunk.js",
-    "static/css/main.95862de5.chunk.css",
-    "static/js/main.258b8b39.chunk.js"
+    "static/js/runtime-main.18686f9a.js",
+    "static/js/2.02d88357.chunk.js",
+    "static/css/main.2d0b685c.chunk.css",
+    "static/js/main.9da05d93.chunk.js"
   ]
 }
