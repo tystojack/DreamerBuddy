@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "77b5616f9d57de2f022b49654fa71af8",
+    "revision": "947e420999f1a8fa1254b0b1e4888ab6",
     "url": "/DreamerBuddy/index.html"
   },
   {
-    "revision": "947166e3b66cd0f2122d",
+    "revision": "f93ecc3115054c328d8a",
     "url": "/DreamerBuddy/static/css/main.2d0b685c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DreamerBuddy/static/js/2.02d88357.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "947166e3b66cd0f2122d",
-    "url": "/DreamerBuddy/static/js/main.9da05d93.chunk.js"
+    "revision": "f93ecc3115054c328d8a",
+    "url": "/DreamerBuddy/static/js/main.f1ae8f7e.chunk.js"
   },
   {
     "revision": "10ba3c5d95df1a1decad",
