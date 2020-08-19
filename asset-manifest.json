@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/DreamerBuddy/static/css/main.498ba671.chunk.css",
-    "main.js": "/DreamerBuddy/static/js/main.e53c5147.chunk.js",
-    "main.js.map": "/DreamerBuddy/static/js/main.e53c5147.chunk.js.map",
+    "main.js": "/DreamerBuddy/static/js/main.45972b3c.chunk.js",
+    "main.js.map": "/DreamerBuddy/static/js/main.45972b3c.chunk.js.map",
     "runtime-main.js": "/DreamerBuddy/static/js/runtime-main.18686f9a.js",
     "runtime-main.js.map": "/DreamerBuddy/static/js/runtime-main.18686f9a.js.map",
     "static/js/2.8a113493.chunk.js": "/DreamerBuddy/static/js/2.8a113493.chunk.js",
     "static/js/2.8a113493.chunk.js.map": "/DreamerBuddy/static/js/2.8a113493.chunk.js.map",
     "index.html": "/DreamerBuddy/index.html",
-    "precache-manifest.8406130886538def272ad6325b75bbaa.js": "/DreamerBuddy/precache-manifest.8406130886538def272ad6325b75bbaa.js",
+    "precache-manifest.77347cf8e7f7983e35ae0396a7eb2816.js": "/DreamerBuddy/precache-manifest.77347cf8e7f7983e35ae0396a7eb2816.js",
     "service-worker.js": "/DreamerBuddy/service-worker.js",
     "static/css/main.498ba671.chunk.css.map": "/DreamerBuddy/static/css/main.498ba671.chunk.css.map",
     "static/js/2.8a113493.chunk.js.LICENSE.txt": "/DreamerBuddy/static/js/2.8a113493.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.18686f9a.js",
     "static/js/2.8a113493.chunk.js",
     "static/css/main.498ba671.chunk.css",
-    "static/js/main.e53c5147.chunk.js"
+    "static/js/main.45972b3c.chunk.js"
   ]
 }

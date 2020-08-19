@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DreamerBuddy/precache-manifest.8406130886538def272ad6325b75bbaa.js"
+  "/DreamerBuddy/precache-manifest.77347cf8e7f7983e35ae0396a7eb2816.js"
 );
 
 self.addEventListener('message', (event) => {
